@@ -1,0 +1,3 @@
+i am beginig to understand git
+i finally understood git
+this text is to study branch concept of git
